@@ -1,6 +1,9 @@
 # AnimalProject_Singtel
 This source contain the source for animal project assignment given by singtel
 
+All the souce codes for this assignment is compressed with STProject.zip this contain the eclipse java project which contains all the 
+source codes, below is the explanations or answers for the questions asked as part of this assignment . All the answers starts with <Yasin> tag for easy reference.
+
 1) Animal Class is the parent class for all the animal types and Bird and Fish is the parent for respective type of Birds and Fishes.
 below are the solution for the questions asked
 
